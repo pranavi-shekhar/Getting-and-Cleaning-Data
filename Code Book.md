@@ -16,7 +16,6 @@
 
 - The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
 
----
 
 ## Features of the Raw Dataset
 
@@ -82,7 +81,6 @@ Units for all acceleration variables = standard gravity unit 'g'
 Units for gyroscope variable = radians/second
 ```
 
----
 
 ## Features of the Tidy Dataset
 
@@ -103,4 +101,4 @@ Units for gyroscope variable = radians/second
   * ***subject*** - denoting the id of the subject performing the action. Range is [1,30]
   * ***activities*** - denoting the various activities performed by each subject
 
----
+

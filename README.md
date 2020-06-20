@@ -8,7 +8,7 @@ Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 
----
+
 ## Contents of the Raw Dataset
 
 #### For each record it is provided -
@@ -54,14 +54,12 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
----
 ## The Tidy Dataset
 
 
 - The tidy dataset is a single file obtained by merging the training (**X_train.txt** and **y_train.txt**) and test (**X_test.txt** and **y_test.txt**) data together, along with the subject corresponding to each observation(**subject_train.txt** and **subject_test.txt**)
 - The dataset contains only the average of mean and  standard deviation measurements of all the variables, for each subject performing each activity.
 
----
 
 ## License  
  
